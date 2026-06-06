@@ -1,0 +1,60 @@
+# Mecanicadesuelos — Murcia
+
+> Geotechnical engineering services in Murcia, España.
+
+## Services
+- [Aislacion Sismica](https://murcia.mecanicadesuelos.vip/aislacion-sismica/)
+- [Anclajes](https://murcia.mecanicadesuelos.vip/anclajes/)
+- [Calicatas](https://murcia.mecanicadesuelos.vip/calicatas/)
+- [Calicatas Exploratorias](https://murcia.mecanicadesuelos.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://murcia.mecanicadesuelos.vip/cbr-vial/)
+- [Cimentaciones](https://murcia.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://murcia.mecanicadesuelos.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://murcia.mecanicadesuelos.vip/columnas-grava/)
+- [Densidad Cono Arena](https://murcia.mecanicadesuelos.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://murcia.mecanicadesuelos.vip/ensayo-cpt/)
+- [Ensayo Triaxial](https://murcia.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos Proctor](https://murcia.mecanicadesuelos.vip/ensayos-proctor/)
+- [Estabilidad Taludes](https://murcia.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://murcia.mecanicadesuelos.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://murcia.mecanicadesuelos.vip/excavaciones-subterraneo/)
+- [Exploracion](https://murcia.mecanicadesuelos.vip/exploracion/)
+- [Geofisica](https://murcia.mecanicadesuelos.vip/geofisica/)
+- [Geotecnia Vial](https://murcia.mecanicadesuelos.vip/geotecnia-vial/)
+- [Granulometria](https://murcia.mecanicadesuelos.vip/granulometria/)
+- [Grouting](https://murcia.mecanicadesuelos.vip/grouting/)
+- [Inyecciones](https://murcia.mecanicadesuelos.vip/inyecciones/)
+- [Laboratorio In Situ](https://murcia.mecanicadesuelos.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://murcia.mecanicadesuelos.vip/laboratorio-lab/)
+- [Licuefaccion](https://murcia.mecanicadesuelos.vip/licuefaccion/)
+- [Limites Atterberg](https://murcia.mecanicadesuelos.vip/limites-atterberg/)
+- [Losas Fundacion](https://murcia.mecanicadesuelos.vip/losas-fundacion/)
+- [Masw](https://murcia.mecanicadesuelos.vip/masw/)
+- [Masw Vs30](https://murcia.mecanicadesuelos.vip/masw-vs30/)
+- [Mejoramiento](https://murcia.mecanicadesuelos.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://murcia.mecanicadesuelos.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://murcia.mecanicadesuelos.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://murcia.mecanicadesuelos.vip/muros-contencion/)
+- [Pavimento Flexible](https://murcia.mecanicadesuelos.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://murcia.mecanicadesuelos.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://murcia.mecanicadesuelos.vip/permeabilidad-campo/)
+- [Permeabilidad In Situ](https://murcia.mecanicadesuelos.vip/permeabilidad-in-situ/)
+- [Pilotes](https://murcia.mecanicadesuelos.vip/pilotes/)
+- [Refraccion Sismica](https://murcia.mecanicadesuelos.vip/refraccion-sismica/)
+- [Resistividad](https://murcia.mecanicadesuelos.vip/resistividad/)
+- [Sismica](https://murcia.mecanicadesuelos.vip/sismica/)
+- [Sondaje Spt](https://murcia.mecanicadesuelos.vip/sondaje-spt/)
+- [Sondajes Spt](https://murcia.mecanicadesuelos.vip/sondajes-spt/)
+- [Taludes](https://murcia.mecanicadesuelos.vip/taludes/)
+- [Tomografia Sismica](https://murcia.mecanicadesuelos.vip/tomografia-sismica/)
+- [Triaxial](https://murcia.mecanicadesuelos.vip/triaxial/)
+- [Tuneles Suelo Blando](https://murcia.mecanicadesuelos.vip/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://murcia.mecanicadesuelos.vip/vibrocompactacion/)
+- [Zapatas](https://murcia.mecanicadesuelos.vip/zapatas/)
+
+## Contact
+- Website: https://murcia.mecanicadesuelos.vip/
+
+## About
+This site provides geotechnical engineering services in Murcia, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
